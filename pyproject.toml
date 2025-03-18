@@ -1,0 +1,5 @@
+[project]
+name = "nts"
+version = "0.1.0"
+description = "NTS Radio downloader and metadata parser"
+requires-python = ">=3.10"
